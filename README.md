@@ -81,7 +81,7 @@ Author
 
 John Stephen  
 Founder & Lead Data Scientist  
-🌐 Website: https://modncv.com  
+🌐 Website: https://modncv.ai 
 📧 Contact: [Add your email or contact page]
 
 ---------------------------------------------------------
